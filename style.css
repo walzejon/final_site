@@ -1,0 +1,29 @@
+#link{
+  font-size:35px
+}
+body{
+/*   background-image: url("https://colibriwp.com/blog/wp-content/uploads/2019/08/watercolor2.png"); */
+  background-image: url("https://cdn.mos.cms.futurecdn.net/cgNja7vCHHvsfP3gtfd2wg.jpg");
+}
+
+h5 {
+  padding-left: 15px;
+}
+.flex-container{
+  display:flex;
+  justify-content:space-around;
+}
+#weather{
+  padding-left:10px;
+  padding-right:10px;
+}
+#image{
+  background-image: url("https://image.freepik.com/free-vector/abstract-paper-hexagon-white-background_51543-7.jpg");
+}
+
+.even{
+  background-color:#96E072;
+}
+.odd{
+  background-color: #E8FCCF;
+}
